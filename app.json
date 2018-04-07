@@ -15,7 +15,7 @@
     "ALLOWED_ORIGINS": {
       "description": "Comma-separated allowed values for the Origin header",
       "value": "http://bigtens.club,https://bigtens.club",
-      "required": true
+      "required": false
     }
   }
 }
