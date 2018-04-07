@@ -14,7 +14,7 @@
     "NODE_ENV": "production",
     "ALLOWED_ORIGINS": {
       "description": "Comma-separated allowed values for the Origin header",
-      "value": "http://localhost:3000,https://yourapp.com",
+      "value": "http://bigtens.club,https://bigtens.club",
       "required": true
     }
   }
