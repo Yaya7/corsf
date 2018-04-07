@@ -6,7 +6,6 @@
   "success_url": "/",
   "addons": [
     "librato:development",
-    "nodetime:free",
     "papertrail:choklad"
   ],
   "env": {
